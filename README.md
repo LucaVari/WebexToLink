@@ -3,7 +3,7 @@
 Copia negli appunti il link di una registrazione webex (m3u8).
 In questo modo è possibile riprodurre una registrazione webex su qualsiasi player (come VLC) senza scaricare la lezione.
 
-# Come installare l`estensione
+# Come installare l'estensione
 
 Scarica il progetto da `code` o clicca [`qui`](https://github.com/LucaVari/WebexToLink/archive/refs/heads/main.zip).
 Estrai la cartella.
