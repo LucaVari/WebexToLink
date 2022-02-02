@@ -5,7 +5,7 @@ In questo modo è possibile riprodurre una registrazione webex su qualsiasi play
 
 # Come installare l'estensione
 
-L'estensione può esssere scaricata direttamente gli store browser:
+L'estensione può esssere scaricata direttamente gli store dei browser:
 
 CHROME/EDGE: [`chrome web store`](https://chrome.google.com/webstore/detail/webextolink/mjkllhbckabdnkolalpielbflkcmkaag?hl=it)
 
