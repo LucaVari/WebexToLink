@@ -1,19 +1,19 @@
 {
     "name": "webexToLink",
-    "version": "1.0",
-    "description": "Copy the link of the recording, in that way you can play it on vlc or other video-player",
-    "manifest_version":2,
-
+    "version": "1.1",
+    "description": "Ottieni il link delle registrazioni webex",
+    "manifest_version": 2,
     "permissions": [
         "activeTab",
         "webRequest",
         "clipboardWrite",
-        "webRequestBlocking",
         "https://*/*",
         "http://*/*"
     ],
     "background": {
-        "scripts": ["background.js"]
+        "scripts": [
+            "background.js"
+        ]
     },
     "browser_action": {
         "default_icon": "icon.png"
