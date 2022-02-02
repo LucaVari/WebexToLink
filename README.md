@@ -5,18 +5,12 @@ In questo modo è possibile riprodurre una registrazione webex su qualsiasi play
 
 # Come installare l'estensione
 
-Scarica il progetto da `code` o clicca [`qui`](https://github.com/LucaVari/WebexToLink/archive/refs/heads/main.zip).
-Estrai la cartella.
+L'estensione può esssere scaricata direttamente gli store browser:
 
-Vai a [`chrome://extensions/`](chrome://extensions/) e abilita la `modalità sviluppatore`.
+CHROME/EDGE: [`chrome web store`](https://chrome.google.com/webstore/detail/webextolink/mjkllhbckabdnkolalpielbflkcmkaag?hl=it)
 
-Clicca poi su `Carica estensione non pacchettizzata` e seleziona la cartella `estensione chrome` (quella dove è contenuto `manifest.json`)
+FIREFOX: [`add-on mozilla`](https://addons.mozilla.org/it/firefox/addon/webextolink/)
 
-L'estensione è pronta per essere utilizzata, come una qualsiasi altra estensione di chrome.
-
-Se vuoi, una volta installata, puoi disattivare la `modalità sviluppatore`.
-
-ATTEZIONE: ricordati di non cancellare né spostare la cartella dell'estensione!
 
 # Usare l'estensione
 
